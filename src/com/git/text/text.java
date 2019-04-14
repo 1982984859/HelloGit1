@@ -24,6 +24,8 @@ public class text {
     *     ·拉取请求，到主干，分支新内容添加到主干
     *    ·（由于主干，资源分支共享，此时其他分支也会因为主干的改变而改变）
     *
+    *    ·tt
+    *
     *
     * */
     public static void main(String[] args) {
